@@ -1,0 +1,8 @@
+{
+  "id": "one",
+  "groups": [
+    "alaska",
+    "sftp"
+  ],
+  "shell": "/bin/false"
+}

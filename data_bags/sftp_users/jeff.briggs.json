@@ -1,0 +1,11 @@
+{
+  "id": "jeff.briggs",
+  "groups": [
+    "jeff.briggs",
+    "verbasftp"
+  ],
+  "shell": "/bin/false",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDmiLX629cPthd9YEZNqaBj+oDyqQLhNuKaW/8sHYY4JFLQNrMCp/CzxNR0QMN8t8OdbYnSzacmDNktPfPPtcSLM0hFsL0+v0QapYKSyERSIMSllGcO5vh7f5UaYVQB0oAjyV+4K9qvFXudktgWmtw+qz/z04AEAbJZ0ox0epXAc5y9u0scuVZ14IgDTlCVP7fSDbLWxpZBB0oG5aT8APcypZ5JvpBXZF5dQ6D31E7hSv3GFMi7qmdA4CR3RpwaNqgoA58lvJzjTiCRmNCYuq+CPjKdMcnvUbRhcj2b7eNQVL4+qR3ibh3plAnQ0WxWz3wc5wRazHTV9gNbJTzwwl/zvTwVInOiF+P4V1Ef0ICXnwq7eYMDikCvnH14ikbvvr3v/k7ToMAu6Ds+s/t7DNDakIPVEDqsI5qZ+VfEI2QJKjpjcmo9xuE51i2SmgXirjWEuKP9GdpzcuZIQffQb24EWIJPU56ibvBLLwpnDBVE5X+AA0MReFKnr9exMFDfsN9A4WTljICj5pWDUUK98D4Ab2/QSjhaHeMn9K8wYPw+TPpeWK51AfiGDJNsfMS9xdU6UT0EjAdzmNBHtQMOHeTSN3aDGnFgLG+821aqcTJdBCy+Pna0VtfS3QkN8FQriHEbpzid+gP+2d+FuUiA++f4kishRcd7V0b+eizqv6ynMQ== jeff.briggs@vitalsource.com"
+  ]
+}

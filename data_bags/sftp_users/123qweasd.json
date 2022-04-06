@@ -1,0 +1,11 @@
+{
+  "id": "123qweasd",
+  "groups": [
+    "sftp",
+    "123qweasd"
+  ],
+  "shell": "/bin/false",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDS3QFj9+yy47j+j9M3GMYEeYtMVG4Mw3A51xMdLSKN5OtLfryPZFjorBJ3Z9u/rxWYDdZtJB0hFkRENPNLtV2eTjT0ZZZK0j+ysFO8KabWJKYvoL6rh8rUx1sWviua/UdT0ViBC2LvWD5XCeP1Xg/IGAEyfQ6cZgb3UfyWkzVJszq3/qsfTpHFt9EXPmT3u33QUrZvDWFI9aPlA92gXO1xLr7DMty84jTQaGIULZlnZ2MOv/jUqivBGci+4xmb3ixDv4m/hjnyAVbtKco6PwJpYh5aEhfvhNOncXXDg8uMnwWVzwS96lWAro9V4JJ/rL1ZLUis1VVE3qsZk20t6Ykf andrewtaber@Andrews-MacBook-Air-2.local"
+  ]
+}

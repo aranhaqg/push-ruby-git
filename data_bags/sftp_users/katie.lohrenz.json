@@ -1,0 +1,11 @@
+{
+  "id": "katie.lohrenz",
+  "groups": [
+    "katie.lohrenz",
+    "verbasftp"
+  ],
+  "shell": "/bin/false",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCelTggwJJafXdkkSp9KKKDFxgCAXFsuJgI0fdbHKEaImnh5ITu7Gplnre/+5qQXuum9QesconOBv7n9VM/c9D4UHU4KDpC4eaFbVSS/3SvMe1uuniObJTtnla+H9YbtC1i/u/BT91bnoZIdWl/q53Ib9g2rmqk+EcSr0IOdHgeHb0Dnts0suvwDg6HdUWIUU5PTDcvb9YHWjwxI4FYeJX0vJTWWpWV2I0gi8ekT2rJr7RSBDXeW80NopBxGXrTIW3H7zS73VER5WaeyHchTY16uBJsBXm3N6Q4Ulb06NsUpC/c8/h196vbwpFNiPHKz6akGAGelFRHajD1FaCtRohUn/FGJj44z1LwrUQ40AUFS2uwujvfQ+Q656YPjJ6ag5XUtJpXW/AOmVnzYG/dm172gl03erbtD84tKFi2r2hOH5lGFVDekFHNNCvKqUyUUi/+HKJe8S2Yn+xDwbylHiWnpDbkXjzb++z0EAUJn3TDMb9D1nKrMhpdvkP4XxK1elp6/wcRPSzUl5dcyWdp3zox1lb+bvQH101Nbh2+iIFHK0TWpawyyY8RR1fUzk9C2bxdpcdByay/cFPLWCIJ9AoxOqpURGig39VtZ4uEs9VIUxrVZ24P5QSqV40NOYA+79JOXNDuc7NO8ohu5qe/TsSTgCVMdlwcZT7K3DKzpD+WPw== katie.lohrenz@vitalsource.com"
+  ]
+}

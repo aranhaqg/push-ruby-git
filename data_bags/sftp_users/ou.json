@@ -1,0 +1,11 @@
+{
+  "id": "ou",
+  "ssh_keys": null,
+  "groups": [
+    "sftp",
+    "ou",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$/.B2c3VM$spBFMBxMGM41Fk0pM8T3K0\n"
+}

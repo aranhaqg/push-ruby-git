@@ -1,0 +1,13 @@
+{
+  "id": "testuser123_",
+  "groups": [
+    "testuser123_",
+    "verbasftp",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0hJAH6W7J1Ag6UsXgiR+PptDXAJr3u5iv4xPgiAFNqu7h6bP+e3u9VvF5qVGvptWE2H2ezBX0ztPA9BJHY7lf8kj+thv3UADH4TZypPNWGpyR1G0yvkqkm5Zw4JiLPL3nWg+kNVonfxQRi6Mng27lPEICaxTTHh9GRk6gaCWaBvR0xk5ry+JkObJeTjSRYionpaTaAj+Yn/nYLlxYrqJmL+0ENyY4KZ2P+ZzW91Eb1DIQ1iorCbKwJc1xdr+tL3H1WToLOv7/569CifODp+m0uXKB00Zsf/WpA2XD4TiVi2cPqam/neFwrVqD9YsXeH6bg5F2w8GANlaXbZMupncb christopherdrellow@Christophers-MacBook-Air-3.local"
+  ],
+  "password": "$1$zJIp4CMg$IQISTNGoDiUnx.utuq7EF/\n"
+}

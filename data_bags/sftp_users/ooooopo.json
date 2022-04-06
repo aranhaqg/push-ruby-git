@@ -1,0 +1,10 @@
+{
+  "id": "ooooopo",
+  "groups": [
+    "sftp",
+    "ooooopo",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$ax4yAPit$/Dz35xH2T7Z/6XQ0758IU1\n"
+}

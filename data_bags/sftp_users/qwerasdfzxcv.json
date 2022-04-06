@@ -1,0 +1,11 @@
+{
+  "id": "qwerasdfzxcv",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDaNxwn9ZGInR8U2G9kcY+FyLCk2ohrpmIi/gaT34GzWQ8I/62Gan9jG5PJePR99fQBKH3FlZ6A1o1rfZTA6p79gfaeoZZsx2m2PQ8mMotlIlJEBv1qLRxOCjsc/OLUtm4W99RZaIDBKbZsBRaJoEBcq6jhGawqxOmpeu22xWhJ7elN7u4hHT5gUaAX4uTNUdjUyrxh6/wiCJU8Y0/HLKUIS2A6FNLcBOhNf2nIzcCfc9vyeNr1cYpWPRir9MWkMl77/3GjYq43UAx18Jxd3jPPD3eByiJyAC6WOcLR54Na2V7LZwgLNTzAFOt43ynn0xHDMi5wQRD2ZxJFlQM4KYzwdXbOIgh5E0WaMcT2kADAujxnQQ5+DiYksc8Za6EFNQVksLkjblqp6crSP9+HzmHJVIz5y939rIqSQPF/qvF0Umfws0393jixId9KlUK5b2ikmMw95dxnmZgHN0Eg3nkg0DGfIQU85WcZWvFx2M1C+1OJPWwIXGO09VED/MMgeO8= dchapde@ramleng-dchapde.lan"
+  ],
+  "groups": [
+    "sftp",
+    "qwerasdfzxcv"
+  ],
+  "shell": "/bin/false"
+}

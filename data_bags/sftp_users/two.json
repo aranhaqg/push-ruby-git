@@ -1,0 +1,11 @@
+{
+  "id": "two",
+  "ssh_keys": null,
+  "groups": [
+    "sftp",
+    "two",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$USg7JQv2$HGioR4NY.dJ5Vi4XxvjQe1\n"
+}

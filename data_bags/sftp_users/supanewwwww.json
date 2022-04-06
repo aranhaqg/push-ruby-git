@@ -1,0 +1,10 @@
+{
+  "id": "supanewwwww",
+  "groups": [
+    "sftp",
+    "supanewwwww",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$gUwVEPto$Yl42u4Lq9Kri.YKG.hZCK0\n"
+}
