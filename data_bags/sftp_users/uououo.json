@@ -7,5 +7,6 @@
     "sftp",
     "uououo"
   ],
-  "shell": "/bin/false"
+  "shell": "/bin/false",
+  "action": "remove"
 }
