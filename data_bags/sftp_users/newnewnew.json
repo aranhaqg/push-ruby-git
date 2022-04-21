@@ -5,9 +5,8 @@
   ],
   "groups": [
     "sftp",
-    "newnewnew",
-    "withpassword"
+    "newnewnew"
   ],
   "shell": "/bin/false",
-  "password": "$1$QCV3rH.c$.xnqCZJo3Gr2w4sTuPtAW.\n"
+  "password": ""
 }
