@@ -5,7 +5,9 @@
   ],
   "groups": [
     "sftp",
-    "erweqrw"
+    "erweqrw",
+    "withpassword"
   ],
-  "shell": "/bin/false"
+  "shell": "/bin/false",
+  "password": "$1$YJ0lBJto$FGcQAbH/CLyr72knxITG40"
 }
