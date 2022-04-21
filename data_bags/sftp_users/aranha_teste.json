@@ -2,11 +2,12 @@
   "id": "aranha_teste",
   "groups": [
     "aranha_teste",
-    "verbasftp"
+    "verbasftp",
+    "withpassword"
   ],
   "shell": "/bin/false",
   "ssh_keys": [
 
   ],
-  "password": ""
+  "password": "$1$1iYOGfbJ$lRQQ6nODeR0wLITG/BWRO0"
 }
