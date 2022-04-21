@@ -1,13 +1,13 @@
 {
   "id": "aranha_teste",
   "groups": [
-    "aranha_teste"
+    "aranha_teste",
+    "verbasftp",
+    "withpassword"
   ],
   "shell": "/bin/false",
   "ssh_keys": [
-    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDS3QFj9+yy47j+j9M3GMYEeYtMVG4Mw3A51xMdLSKN5OtLfryPZFjorBJ3Z9u/rxWYDdZtJB0hFkRENPNLtV2eTjT0ZZZK0j+ysFO8KabWJKYvoL6rh8rUx1sWviua/UdT0ViBC2LvWD5XCeP1Xg/IGAEyfQ6cZgb3UfyWkzVJszq3/qsfTpHFt9EXPmT3u33QUrZvDWFI9aPlA92gXO1xLr7DMty84jTQaGIULZlnZ2MOv/jUqivBGci+4xmb3ixDv4m/hjnyAVbtKco6PwJpYh5aEhfvhNOncXXDg8uMnwWVzwS96lWAro9V4JJ/rL1ZLUis1VVE3qsZk20t6Ykf andrewtaber@Andrews-MacBook-Air-2.local",
-    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0hJAH6W7J1Ag6UsXgiR+PptDXAJr3u5iv4xPgiAFNqu7h6bP+e3u9VvF5qVGvptWE2H2ezBX0ztPA9BJHY7lf8kj+thv3UADH4TZypPNWGpyR1G0yvkqkm5Zw4JiLPL3nWg+kNVonfxQRi6Mng27lPEICaxTTHh9GRk6gaCWaBvR0xk5ry+JkObJeTjSRYionpaTaAj+Yn/nYLlxYrqJmL+0ENyY4KZ2P+ZzW91Eb1DIQ1iorCbKwJc1xdr+tL3H1WToLOv7/569CifODp+m0uXKB00Zsf/WpA2XD4TiVi2cPqam/neFwrVqD9YsXeH6bg5F2w8GANlaXbZMupncb christopherdrellow@Christophers-MacBook-Air-3.local",
-    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDt+QcaIqdHcc0AZl7BT4ZpXxFDJx3JEJjz2Cs14wNJol4V1xDEFGroDcHO3li2VUpobIzUA1wiTZ3x5O1GbCTrsIr9x9IGs+3q3b3ajhAlQWHElK4A2uOLy56OVirfuZrNrjK/njwOeeE/HKE2H7Addzna1JeGnvBjOXj+4K+DvxUkjHiHZUC9UCj6sdv5L+Y6L3OrUcWI6fliOBXDR9nxKZ2yFvnOimOT8/OFxHqD2gFWWYWrwKTDUFD7gJ4toIACRdgQYkkjzoVojQmvRMfr13cjcPmbe4wuFqCA3ucC18WMNTkdba1kIyOb12vgmMItMZLyUFVNojV8kt764H43 inclusive_access_import"
+
   ],
-  "password": ""
+  "password": "$1$XSjcD0kx$Z.pIgUqKpit8fmkiRyg3x/"
 }
