@@ -2,9 +2,11 @@
   "id": "aranhag_net_suite2",
   "groups": [
     "sftp",
-    "aranhag_net_suite2",
-    "withpassword"
+    "aranhag_net_suite2"
   ],
   "shell": "/bin/false",
-  "password": "$1$RwojjiUZ$A227ctZMUVrQo7qw.eK6I."
+  "password": "",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDt+QcaIqdHcc0AZl7BT4ZpXxFDJx3JEJjz2Cs14wNJol4V1xDEFGroDcHO3li2VUpobIzUA1wiTZ3x5O1GbCTrsIr9x9IGs+3q3b3ajhAlQWHElK4A2uOLy56OVirfuZrNrjK/njwOeeE/HKE2H7Addzna1JeGnvBjOXj+4K+DvxUkjHiHZUC9UCj6sdv5L+Y6L3OrUcWI6fliOBXDR9nxKZ2yFvnOimOT8/OFxHqD2gFWWYWrwKTDUFD7gJ4toIACRdgQYkkjzoVojQmvRMfr13cjcPmbe4wuFqCA3ucC18WMNTkdba1kIyOb12vgmMItMZLyUFVNojV8kt764H43 inclusive_access_import"
+  ]
 }
