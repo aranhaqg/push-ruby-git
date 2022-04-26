@@ -1,0 +1,10 @@
+{
+  "id": "aranhag_net_suite2",
+  "groups": [
+    "sftp",
+    "aranhag_net_suite2",
+    "withpassword"
+  ],
+  "shell": "/bin/false",
+  "password": "$1$RwojjiUZ$A227ctZMUVrQo7qw.eK6I."
+}
