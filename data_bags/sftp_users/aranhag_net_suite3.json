@@ -1,0 +1,9 @@
+{
+  "id": "aranhag_net_suite3",
+  "groups": [
+    "sftp",
+    "aranhag_net_suite3"
+  ],
+  "shell": "/bin/false",
+  "password": ""
+}
