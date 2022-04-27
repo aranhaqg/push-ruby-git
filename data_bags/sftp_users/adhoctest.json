@@ -1,9 +1,12 @@
 {
   "id": "adhoctest",
-  "groups": null,
+  "groups": [
+    "verbasftp",
+    "withpassword"
+  ],
   "shell": "/bin/false",
   "ssh_keys": [
 
   ],
-  "password": ""
+  "password": "$1$Rt2omy9I$5r3TuuYm8smLq/INZk1k7/"
 }
